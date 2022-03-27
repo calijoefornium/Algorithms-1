@@ -3,7 +3,7 @@ q = int(input("enter the column number for matrix2:"))
 
 n = int (input("enter the column number for matrix 1/ row number matrix2:"))
 
-# accepting matrix1 values and displaying matrix 1
+# Accepting matrix1 values and displaying matrix 1
 
 print ("enter the elements for matrix 1:")
 
